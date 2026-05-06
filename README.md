@@ -15,7 +15,7 @@ Dir Structure (automatically generated):
 System requirements:
 - Windows OS
 
-No installation needed! Download and enjoy it for free.\
+No installation needed! Download and enjoy the App for free. It does no harm and is safe to use.\
 *If you have questions on the Option pricer*, [Contact me](mailto:ql12@cornell.edu).
 
 ### Pricing method supported (VALUE for KEY[deriv_px_method_id]):
