@@ -2,9 +2,11 @@
 	A unifying high-performance (C++) option pricing tool
 
 ### How to run:
-1. double-click **pxOptionGui.exe**;
+1. double-click **qlOptionApp.exe**;
 2. update GUI inputs, if necessary. See GUI tooltips & [more info below](#option) for business logic;
-3. click the **Compute** button.
+3. click the **Compute** button:
+   
+![Option App](startup-page.png)
 	
 Dir Structure (automatically generated):
 - qlcpp: sub-dir containing the C-dll file and **option.json**, which is used to set up the GUI
